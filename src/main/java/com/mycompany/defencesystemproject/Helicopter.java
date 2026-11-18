@@ -21,7 +21,7 @@ public class Helicopter extends javax.swing.JFrame implements SignalObsever {
     private boolean isShootHolding = false;
     private Timer rapidFireTimer;
     private Timer holdTimer;
-    private int ammoCount = 100;
+    private int ammoCount = 2500;
     private int energyLevel = 100;
 
     /**
